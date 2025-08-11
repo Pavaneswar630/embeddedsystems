@@ -1,3 +1,0 @@
-".\Objects\STARTUP.obj" 
-TO ".\Objects\16x2" 
-PRINT(".\Listings\16x2.m51")

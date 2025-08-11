@@ -1,4 +1,0 @@
-".\Objects\STARTUP.obj",
-".\Objects\hexatodec.obj" 
-TO ".\Objects\hexatodec" 
-PRINT(".\Listings\hexatodec.m51")
