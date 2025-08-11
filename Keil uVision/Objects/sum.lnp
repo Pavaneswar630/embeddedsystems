@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\sum.obj" 
+TO ".\Objects\sum" 
+PRINT(".\Listings\sum.m51")

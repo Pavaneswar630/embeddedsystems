@@ -1,0 +1,25 @@
+C51 COMPILER V9.60.7.0   HEXATODEC                                                         05/14/2025 10:41:26 PAGE 1   
+
+
+C51 COMPILER V9.60.7.0, COMPILATION OF MODULE HEXATODEC
+OBJECT MODULE PLACED IN .\Objects\hexatodec.obj
+COMPILER INVOKED BY: C:\Keil_v5\C51\BIN\C51.EXE hexatodec.c OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings
+                    -\hexatodec.lst) TABS(2) OBJECT(.\Objects\hexatodec.obj)
+
+line level    source
+
+   1          # include <reg51.h> void main (void)
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =     29    ----
+   CONSTANT SIZE    =   ----    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =   ----       3
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)
