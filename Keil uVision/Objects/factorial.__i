@@ -1,0 +1,1 @@
+"factorial.c" OPTIMIZE (8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\factorial.lst) TABS (2) OBJECT(.\Objects\factorial.obj)

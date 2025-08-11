@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\multisix.obj" 
+TO ".\Objects\multisix" 
+PRINT(".\Listings\multisix.m51")
